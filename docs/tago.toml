@@ -1,0 +1,10 @@
+title       = "cst2"
+baseURL     = "https://cstheoryse-cli.tamnd.com/"
+description = "Browse Computer Science Theory Stack Exchange"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/cstheoryse-cli"
